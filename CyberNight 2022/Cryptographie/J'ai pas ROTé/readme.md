@@ -12,7 +12,7 @@
 
 ## Les bases
 
-On va commencé par définir le rotationel. Cela consiste à intervertir les symboles en faisant une rotation. Par exemple, un rotationnel 13 donne pour bonjour le mot rkrzcyr.
+On va commencé par définir le rotationnel. Cela consiste à intervertir les symboles en faisant une rotation. Par exemple, un rotationnel 13 donne pour bonjour le mot rkrzcyr.
 
 **image alphabet.png**
 
