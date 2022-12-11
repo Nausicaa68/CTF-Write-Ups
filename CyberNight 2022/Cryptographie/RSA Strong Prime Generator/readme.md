@@ -13,7 +13,7 @@ Aie, encore un qui pense avoir inventé l'eau chaude. Arriverez-vous à lui prou
 
 ## Fuck RSA
 
-Le RSA c'est toujours chiant en CTF. Mais l'avantage, c'est que ça a été retourné par tout le monde. Donc, à l'instar du petit gars du challenge qui pense avoir inventé l'eau chaude, n'essayez pas vous-même de réinventer la roue carré pour cryptanalyser le challenge. D'autres solutions existent en ligne.
+Le RSA c'est toujours chiant en CTF. Mais l'avantage, c'est que ça a été retourné par tout le monde. Donc, à l'instar du petit gars du challenge qui pense avoir inventé l'eau chaude, n'essayez pas vous-même de réinventer la roue carré pour cryptanalyser le challenge. D'autres solutions, meilleurs, existent en ligne.
 
 ## Dcode, un ami qui vous veut du bien. 
 
