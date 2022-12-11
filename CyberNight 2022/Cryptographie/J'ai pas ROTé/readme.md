@@ -12,9 +12,9 @@
 
 ## Les bases
 
-On va commencé par définir le rotationnel. Cela consiste à intervertir les symboles en faisant une rotation. Par exemple, un rotationnel 13 donne pour bonjour le mot rkrzcyr.
+On va commencé par définir le rotationnel. Cela consiste à intervertir les symboles en faisant une rotation. Par exemple, un rotationnel 13 donne pour "exemple" le mot "rkrzcyr".
 
-**image alphabet.png**
+![firefox_zSymojHzvh](https://user-images.githubusercontent.com/58084848/206930335-6cd70378-1cbf-4007-ba0f-ed3f52a8de3c.png)
 
 Chaque lettre est inversé avec la 13e lettre plus loin. Les plus attentifs y veront un chiffrement de César de clé = 13.
 
