@@ -36,7 +36,9 @@ Si le pourquoi du choix de 65537 vous intéresse, un petit paragraphe vous atten
 
 ### Déterminons p et q
 
-Nous est donner dans ce challenge un fichier avec n et e. n = p*q, et avec p et q, on peut tout déterminer, dont d, la clé de déchiffrement. Le rpincipe du RSA est qu'avec des nombres premiers p et q suffisement grands, on ne peut pas factoriser n en un temps raisonnable et déterminer p et q. 
+Nous est donné dans ce challenge un fichier avec n et e. n = p*q, et avec p et q, on peut tout déterminer, dont d, la clé de déchiffrement.
+
+Le principe du RSA est qu'avec des nombres premiers p et q suffisamment grands, on ne peut pas factoriser n en un temps raisonnable, et donc déterminer p et q. 
 
 Or là, n semble suffisement petit pour que cela soit possible. On va donc essayer. 
 
@@ -47,7 +49,7 @@ Grâce à [Dcode](https://www.dcode.fr/decomposition-nombres-premiers), on obtie
 
 On va maintenant déchiffrer le message M.
 
-**image dcode**
+![firefox_BPqldYYucy](https://user-images.githubusercontent.com/58084848/206912110-a0ef96a9-bea4-449f-a639-7e894333815e.png)
 
 On obtient : Bravo jeune cryptologue en herbe, le flag est CYBN{d0nt_r0ll_y0ur_0wn_crypt0_dammit!!}
 
