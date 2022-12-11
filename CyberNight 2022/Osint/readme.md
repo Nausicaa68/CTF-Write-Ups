@@ -7,6 +7,7 @@ D'une manière générale, l'OSINT désigne « un ensemble hétéroclite de pra
 ## La Banque
 
 > 25 points
+>
 > Easy
 >
 > Je prévois un casse, mais mes coéquipiers ne m'ont pas dit ou était le rendez-vous, pourriez vous me dire dans quelle ville ça se situe ?
@@ -18,6 +19,7 @@ D'une manière générale, l'OSINT désigne « un ensemble hétéroclite de pra
 ## Panneau
 
 > 25 points
+>
 > Easy
 > 
 > Dans quel pays se trouve cette pancarte ?
@@ -30,6 +32,7 @@ D'une manière générale, l'OSINT désigne « un ensemble hétéroclite de pra
 ## Wisdom
 
 > 25 points
+>
 > Easy
 > 
 > "When anger rises, think of the consequences."
@@ -47,6 +50,7 @@ D'une manière générale, l'OSINT désigne « un ensemble hétéroclite de pra
 ## A table
 
 > 50 points
+>
 > Medium
 > 
 > Un cousin à moi à mangé dans un restaurant dans la capitale du pays du challenge "Panneau" le 18/11/2022 non loin de bêtes peu communes.
@@ -61,6 +65,7 @@ D'une manière générale, l'OSINT désigne « un ensemble hétéroclite de pra
 ## Concerto
 
 > 100 points
+>
 > Hard
 > 
 > Je te laisse, le concert va bientôt commencer ! J'espère que quelqu'un l'enregistre.
@@ -79,6 +84,7 @@ D'une manière générale, l'OSINT désigne « un ensemble hétéroclite de pra
 ## Gimme_the_plant
 
 > 100 points
+>
 > Hard
 > 
 > J'ai cette image qui vient d'un reportage d'un ami, apparement y'a une histoire de corail à la réunion. Il a fait une video dessus, vous pouvez me donner la date de mise en ligne de la video et le nom de sa société de prod' ?
@@ -94,6 +100,7 @@ D'une manière générale, l'OSINT désigne « un ensemble hétéroclite de pra
 ## J'aime les trains
 
 > 100 points
+>
 > Hard
 > 
 > Un TGV est parti aujourd'hui. De quelque part. Vous voulez bien me dire d'où, et le numero du TGV ?
