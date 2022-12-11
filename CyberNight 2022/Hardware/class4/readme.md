@@ -13,7 +13,7 @@
 
 Bah, comme dit, c'est du G-code.
 
-## Mais dis moi Jamy, qu'est que le G-code ?
+## Mais dis moi Jamy, qu'est-ce que le G-code ?
 
 Le G-code, Fred, est un langage de programmation de commande numérique permettant de définir des séquences d'instructions afin de piloter des machines-outil à commande numérique.
 
