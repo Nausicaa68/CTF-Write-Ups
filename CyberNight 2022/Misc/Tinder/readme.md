@@ -42,5 +42,6 @@ Ah, il y a des paramètres fixes, mais certains sont variables. Pas le choix, va
 Bon, on peut y deviner la phrase en leet : You are the true regex master. On peut donc deviner que le flag est :
 ```
 CYBN{Y0u_4r3_th3_tru3_r3g3x_m4st3r}
+```
 
 Et voilà le flag UwU !
