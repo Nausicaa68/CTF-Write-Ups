@@ -9,5 +9,6 @@
 >
 > Auteur : Maestran
 >
-> Flag : CYBN{}
+> Flag : CYBN{T1m3_1s_r34lly_tr1cky_1n_r4nd0m}
+
 
