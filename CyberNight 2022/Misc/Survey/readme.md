@@ -11,4 +11,4 @@
 
 Pas trop compliqué, il suffit dans remplir l'enquête de satisfaction. Evidemment, pour cela, faut être un vrai et rester jusqu'à 6h du mat.
 
-Et pas oublier de noter le flag, au risuqe de pas pouvoir le mettre dans ses write-ups !
+Et pas oublier de noter le flag, au risque de ne pas pouvoir le mettre dans ses write-ups !
