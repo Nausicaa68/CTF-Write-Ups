@@ -9,7 +9,17 @@
 >
 > Auteur : Maestran
 >
-> Flag : CYBN{}
+> Flag : CYBN{Welcome!}
 
-## expliquer le nc
+## Ezy
+
+Il suffit de se connecter à l'adresse donnée, au port donné, avec le protocole netcat. 
+
+```
+nc 10.242.0.1 10001
+```
+
+**capture**
+
+Et voilà le flag UwU !
 
