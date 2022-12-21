@@ -8,3 +8,8 @@
 >
 > Flag : CYBN{WTF_Rogue_AP?!}
 
+En fouillant un peu partout, et surtout dans la salle avec les admins, on tombait sur un routeur et un QR Code. 
+
+![IMG_5749.jpg](IMG_5749.jpg)
+
+Ce QR Code dit : Bravo, le flag est CYBN{WTF_Rogue_AP?!}

@@ -9,5 +9,8 @@
 > 
 > **Challenge à effectuer en physique uniquement aux 4 étages du bâtiment A.N’hésitez pas à fouiller sur d’autres étages.Pas besoin d’aller demander la caméra au gardien.**
 >
-> Flag : CYBN{}
+> Flag : CYBN{ca_capte?}
 
+Sur le campus, on pouvait trouver un réseau au nom étrange : Q1lCTntjYV9jYXB0ZT99IAo=
+
+Depuis la base 64, cela donne : CYBN{ca_capte?} 

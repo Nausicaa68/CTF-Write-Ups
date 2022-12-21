@@ -31,6 +31,9 @@ CyberNight réalisé avec l'équipe F4k3L0gy.
 | Challenge | Niveau | Points |
 | --- | --- | --- |
 | class4 | Medium | 50 |
+| Identify 1/3 | Medium | 50 |
+| Find Me 2/3 | Medium | 50 |
+| Yo listen 3/3 | Medium | 50 |
 
 ### Misc
 | Challenge | Niveau | Points |

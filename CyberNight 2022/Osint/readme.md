@@ -43,8 +43,19 @@ D'une manière générale, l'OSINT désigne « un ensemble hétéroclite de pra
 >
 > Auteur : Maestran
 
+S'il vous fallait une preuve supplémentaire que Montréal est la meilleure destination de L3 Mobilité, la voici : vous pouvez flag super vite
 
+![wisdom.jpg](documents/wisdom.jpg)
 
+Sinon, si vous ne reconnaissiez pas tout de suite la tour de Montréal, un tour sur Google Lens pouvait aider. 
+
+Attention toutefois à ne pas confondre l'adresse du stade olympique et l'adresse de la tour en elle même, au rique de vous retrouver avec un taux de fails désastreux comme moi, à force de tout essayer, persuadé que c'est la bonne adresse. 
+
+![stadeolymp](images/stadeolymp.)
+
+![tourmontreal](images/tourmontreal.png)
+
+Le flag est donc CYBN{3200}
 
 
 ## A table
