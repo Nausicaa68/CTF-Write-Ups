@@ -25,6 +25,8 @@ Pour voir ce que ce G-code construit, on peut utiliser le site web [NCviewer](ht
 Voilà ce qu'on obtient : 
 
 ![image](https://user-images.githubusercontent.com/58084848/206909407-0eac85f8-8ebc-4486-8c5e-6aa09f6bd0d8.png)
+![image](image1.png)
+
 
 ![image](https://user-images.githubusercontent.com/58084848/206909464-130f1b3a-75f0-427a-8659-01a60a7ad41f.png)
 
