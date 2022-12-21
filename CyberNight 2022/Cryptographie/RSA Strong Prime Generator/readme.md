@@ -54,8 +54,6 @@ On va maintenant déchiffrer le message M.
 
 On obtient : Bravo jeune cryptologue en herbe, le flag est CYBN{d0nt_r0ll_y0ur_0wn_crypt0_dammit!!}
 
-Et voilà le flag UwU !
-
 
 ### Pourquoi diable 65537 ?
 

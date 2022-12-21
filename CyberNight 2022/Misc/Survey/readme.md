@@ -7,7 +7,7 @@
 > Bon, c'était comment ?
 > 1 form par personne ! (Mais qu'un seul flag à la fin)
 >
-> Flag : je lé pa noté uwu
+> Flag : je lé pa noté UwU
 
 Pas trop compliqué, il suffit dans remplir l'enquête de satisfaction. Evidemment, pour cela, faut être un vrai et rester jusqu'à 6h du mat.
 

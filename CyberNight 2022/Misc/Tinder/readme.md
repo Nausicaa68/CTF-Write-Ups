@@ -44,4 +44,6 @@ Bon, on peut y deviner la phrase en leet : You are the true regex master. On peu
 CYBN{Y0u_4r3_th3_tru3_r3g3x_m4st3r}
 ```
 
-Et voilà le flag UwU !
+## A la main
+
+Si vous voulez voir une résolution étape par étape et manuelle de ce challenge, voici [le lien d'un autre write-up](https://github.com/meric-chenu/CYBN3/tree/master/Misc/Tinder).

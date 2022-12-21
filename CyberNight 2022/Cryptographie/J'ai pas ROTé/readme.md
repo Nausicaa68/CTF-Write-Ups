@@ -201,5 +201,3 @@ print(''.join(list(map(lambda a: chr(int(a/13)), [871, 1157, 858, 1014, 1599, 12
 Output :
 CYBN{c'3tait_p4s_1_c3sar}
 ```
-
-Et voilà le flag UwU !

@@ -43,8 +43,6 @@ Maintenant, on attend. Beaucoup de chaine vont être envoyé, jusqu'à un moment
 
 **image du terminal avec le flag**
 
-Et voilà le flag UwU !
-
 ## Le code en entier
 
 ```python

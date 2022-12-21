@@ -19,7 +19,4 @@ Il suffit de se connecter à l'adresse donnée, au port donné, avec le protocol
 nc 10.242.0.1 10001
 ```
 
-**capture**
-
-Et voilà le flag UwU !
-
+En réponse, on obtient le flag.

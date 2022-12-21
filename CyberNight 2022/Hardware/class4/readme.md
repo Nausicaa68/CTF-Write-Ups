@@ -73,4 +73,3 @@ En regardant la couche 3, on obtient :
 
 ![image](https://user-images.githubusercontent.com/58084848/206909610-da8110ef-93c5-4970-bb05-4e855af6c669.png)
 
-Et voilà le flag UwU !
