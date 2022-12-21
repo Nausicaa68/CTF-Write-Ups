@@ -24,12 +24,9 @@ Pour voir ce que ce G-code construit, on peut utiliser le site web [NCviewer](ht
 
 Voilà ce qu'on obtient : 
 
-![image](https://user-images.githubusercontent.com/58084848/206909407-0eac85f8-8ebc-4486-8c5e-6aa09f6bd0d8.png)
-![image](image1.png)
+![image](images/image1.png)
 
-
-![image](https://user-images.githubusercontent.com/58084848/206909464-130f1b3a-75f0-427a-8659-01a60a7ad41f.png)
-
+![image](images/ah.png)
 
 ## Fouillons !
 
@@ -60,18 +57,17 @@ On obtient un fichier par couche.
 
 Voici ce que donne la première :
 
-![image](https://user-images.githubusercontent.com/58084848/206909525-8ca0ae07-6b4d-4062-8af6-5dcc92b75a68.png)
+![image](images/image2.png)
 
 Voilà qui semble intrigant. En activant le "show rapid movement", on peut voir les mouvements de la tête. Et là, elle dessine CYBN.
 
-![image](https://user-images.githubusercontent.com/58084848/206909573-7019a4d1-1011-4201-b714-841469bbe0df.png)
+![image](images/image3.png)
 
-![image](https://user-images.githubusercontent.com/58084848/206909583-ef3ba637-f399-4f31-aaa0-7a3e9bc6a9fb.png)
-
+![image](images/image4.png)
 
 ## Le flag, le flag !
 
 En regardant la couche 3, on obtient : 
 
-![image](https://user-images.githubusercontent.com/58084848/206909610-da8110ef-93c5-4970-bb05-4e855af6c669.png)
+![image](images/image5.png)
 
